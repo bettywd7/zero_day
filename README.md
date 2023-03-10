@@ -1,1 +1,1 @@
-Working with vagrant and git from local computer
+# This file is mandatory in projects
